@@ -1,5 +1,5 @@
 {
-  "name": "popular",
+  "name": "faves",
   "version": "1.0.0",
   "description": "Audit your machine to generate a list of the npm packages you use most.",
   "main": "index.js",

@@ -1,4 +1,4 @@
-# popular
+# faves
 
 Audit your machine to generate a list of the npm packages you use most.
 
@@ -7,7 +7,7 @@ Audit your machine to generate a list of the npm packages you use most.
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install popular --global
+npm install faves --global
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ audit
 audit ~/projects
 ```
 
-## What's popular at npm?
+## What are npm's faves?
 
 Here are the results of an audit of all the repos in the [github.com/npm](https://github.com/npm) organization:
 
