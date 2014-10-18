@@ -1,0 +1,14 @@
+{
+  "name": "popular",
+  "version": "1.0.0",
+  "description": "Audit your machine to generate a list of the npm packages you use most.",
+  "main": "index.js",
+  "bin": "index.js",
+  "preferGlobal": true,
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "findit": "^2.0.0",
+    "lodash": "^2.4.1"
+  }
+}
