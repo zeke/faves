@@ -2,6 +2,10 @@
 
 Audit your machine to generate a list of the npm packages you use most.
 
+`faves` is a command line tool. Give it a directory and it will find every `package.json` file that is *not* inside a `node_modules` or `.git` directory. It inspects the `dependencies` property of each file and keeps a running tally of dependencies. When it's done, a list npm packages names is printed to stdout, sorted by count.
+
+If you run `faves` without passing a directory argument, it will default to `~`. This will probably be a bit slow, but you'll get results for npm project on your machine!
+
 ## Installation
 
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
