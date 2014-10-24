@@ -46,9 +46,7 @@ Here are the results of an audit of all the repos in the [github.com/npm](https:
 - [once](https://npm.im/once) (9)
 - [chalk](https://npm.im/chalk) (9)
 - [moment](https://npm.im/moment) (9)
-- [test-package-with-one-dep](https://npm.im/test-package-with-one-dep) (8)
 - [replify](https://npm.im/replify) (8)
-- [@npm/enterprise-configurator](https://npm.im/@npm/enterprise-configurator) (8)
 - [inherits](https://npm.im/inherits) (8)
 - [graceful-fs](https://npm.im/graceful-fs) (8)
 - [slide](https://npm.im/slide) (7)
@@ -78,7 +76,6 @@ Here are the results of an audit of all the repos in the [github.com/npm](https:
 - [wrappy](https://npm.im/wrappy) (4)
 - [debuglog](https://npm.im/debuglog) (3)
 - [http-proxy](https://npm.im/http-proxy) (3)
-- [npme-ansible](https://npm.im/npme-ansible) (3)
 
 ## Dependencies
 
