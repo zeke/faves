@@ -19,10 +19,10 @@ npm install faves --global
 ```sh
 # Audit all top-level package.json files in ~
 # (ignoring node_modules directories)
-audit
+faves
 
 # Audit a specific directory
-audit ~/projects
+faves ~/projects
 ```
 
 ## What are npm's faves?
